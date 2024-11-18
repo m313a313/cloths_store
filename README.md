@@ -1,4 +1,4 @@
-# store2
+# cloths_stores
 
 A new Flutter project.
 
